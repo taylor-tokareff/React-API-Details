@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character component renders Character 1`] = `
+<DocumentFragment>
+  <ul>
+    <li>
+      <figure>
+        <a
+          href="/character/Bender"
+        >
+          <img
+            src="url"
+          />
+        </a>
+        <p>
+          Bender
+        </p>
+        <p>
+          Bite my shiny metal ass
+        </p>
+      </figure>
+    </li>
+    <li>
+      <figure>
+        <a
+          href="/character/Bender"
+        >
+          <img
+            src="url"
+          />
+        </a>
+        <p>
+          Bender
+        </p>
+        <p>
+          Bite my shiny metal ass
+        </p>
+      </figure>
+    </li>
+    <li>
+      <figure>
+        <a
+          href="/character/Bender"
+        >
+          <img
+            src="url"
+          />
+        </a>
+        <p>
+          Bender
+        </p>
+        <p>
+          Bite my shiny metal ass
+        </p>
+      </figure>
+    </li>
+    <li>
+      <figure>
+        <a
+          href="/character/Bender"
+        >
+          <img
+            src="url"
+          />
+        </a>
+        <p>
+          Bender
+        </p>
+        <p>
+          Bite my shiny metal ass
+        </p>
+      </figure>
+    </li>
+    <li>
+      <figure>
+        <a
+          href="/character/Bender"
+        >
+          <img
+            src="url"
+          />
+        </a>
+        <p>
+          Bender
+        </p>
+        <p>
+          Bite my shiny metal ass
+        </p>
+      </figure>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
